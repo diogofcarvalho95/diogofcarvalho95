@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diogofcarvalho95
-- 👀 I’m interested in JavaScript, Gastby, React
+- 👀 I’m interested in React
 - 🌱 I’m currently learning next.js
 - 📫 diogofcarvalho95@gmai.com
 
