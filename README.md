@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @diogofcarvalho95
-- 👀 I’m interested in React
-- 🌱 I’m currently learning next.js and Gatsby
+- 🚀 I’m currently learning Next.js and Gatsby
 - 📫 diogofcarvalho95@gmail.com
-- 🌐 https://www.twine.net/DiogoCarvalho
 
 <!---
 diogofcarvalho95/diogofcarvalho95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
