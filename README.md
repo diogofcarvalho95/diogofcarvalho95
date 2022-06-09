@@ -8,9 +8,11 @@
  <ul>
    <li><a href="https://timepeople.pt/" target="_blank">Timepeople (May 2022)</a></li>
    <li><a href="https://utopian.pt/" target="_blank">Utopian Hotels (April 2022)</a></li>
-    <li><a href="https://kaizen.tech/" target="_blank">Kaizentech (April 2022)</a></li>
+   <li><a href="https://kaizen.tech/" target="_blank">Kaizentech (April 2022)</a></li>
    <li><a href="https://croftport.com/" target="_blank">Croft Port (January 2022)</a></li>
    <li><a href="https://neadvance.com/" target="_blank">Neadvance (December 2021)</a></li>
+   <li><a href="https://www.jpsacouto.com/en/" target="_blank">J.P. Sá Couto (November 2021)</a></li>
+   
   </ul>
 
 <p>
