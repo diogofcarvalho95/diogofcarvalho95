@@ -6,7 +6,8 @@
 
 <p>Recent works:</p>
  <ul>
-   <li><a href="http://boostfinance.pt/" target="_blank">Boostfinance (June 2022)</a></li>
+   <li><a href="https://exaktus.pt/repairs/" target="_blank">Exaktus Repairs (August 2022)</a></li>
+   <li><a href="https://boostfinance.pt/" target="_blank">Boostfinance (June 2022)</a></li>
    <li><a href="https://timepeople.pt/" target="_blank">Timepeople (May 2022)</a></li>
    <li><a href="https://utopian.pt/" target="_blank">Utopian Hotels (April 2022)</a></li>
    <li><a href="https://kaizen.tech/" target="_blank">Kaizentech (April 2022)</a></li>
