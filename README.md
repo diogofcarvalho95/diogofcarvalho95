@@ -1,7 +1,7 @@
 <html>
   <p>
 👋 Hi, I’m @diogofcarvalho95. A web developer from Porto with 5 years of experience.<br>
-🚀 Specializing in custom WordPress development. My goal is create well performed and pixel-perfect web products.<br>
+🚀 I specialize in custom WordPress and front-end development. My goal is create well performed and pixel-perfect web products.<br>
 🎯 I’m currently improving my skills in Next.js, Gatsby, Tailwind CSS.</p>
 
 <p>Recent works:</p>
