@@ -8,6 +8,7 @@
 <p>Recent works:</p>
  <ul>
     <li><a href="https://torreshopping.pt/" target="_blank">Torres Shopping (September 2022)</a></li>
+    <li><a href="https://mbeboavista.com/" target="_blank">MBE Boavista (September 2022)</a></li>
    <li><a href="https://exaktus.pt/repairs/" target="_blank">Exaktus Repairs (August 2022)</a></li>
    <li><a href="https://boostfinance.pt/" target="_blank">Boostfinance (June 2022)</a></li>
    <li><a href="https://timepeople.pt/" target="_blank">Timepeople (May 2022)</a></li>
