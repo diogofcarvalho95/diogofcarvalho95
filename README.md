@@ -18,6 +18,15 @@
    <li><a href="https://neadvance.com/" target="_blank">Neadvance (December 2021)</a></li>
    
   </ul>
+  
+  <p>Last confs I attended:</p>
+ <ul>
+    <li><a href="https://viteconf.org/" target="_blank">ViteConf 2022</a></li>
+    <li><a href="https://graphqlconf.org/" target="_blank">GraphQL Conf 2022</a></li>
+   <li><a href="https://europe.wordcamp.org/2022/" target="_blank">WordCamp Europe 2022</a></li>
+   <li><a href="https://gatsbyconf.com/" target="_blank">GatsbyConf 2022</a></li>
+   
+  </ul>
 
 <p>
   📫 <a href="mailto:diogofcarvalho95@gmail.com">diogofcarvalho95@gmail.com</a>
