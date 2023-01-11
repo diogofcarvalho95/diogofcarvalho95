@@ -7,6 +7,7 @@
 
 <p>Recent works:</p>
  <ul>
+    <li><a href="http://blipdreamteam.pt/" target="_blank">Blip Dream Team (December 2022)</a></li>
     <li><a href="http://minrs.pt/" target="_blank">Minrs (November 2022)</a></li>
     <li><a href="https://gingabike.pt/campanhaeletricasoneoff/" target="_blank">Vortex (October 2022)</a></li>
     <li><a href="https://torreshopping.pt/" target="_blank">Torres Shopping (September 2022)</a></li>
