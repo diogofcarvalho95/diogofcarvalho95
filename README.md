@@ -6,17 +6,14 @@
 🎯 I’m currently improving my skills in Next.js, Gatsby and Tailwind CSS.</p>
 
 <p>Recent works:</p>
- <ul>
-    <li><a href="https://blipdreamteam.pt/" target="_blank">Gondomar Original Jewellery (April 2023)</a></li>
+ <ul><li><a href="https://explorelandco.com" target="_blank">Explore Land Company (May 2023)</a></li>
+    <li><a href="http://gondomarjewellery.pt/" target="_blank">Gondomar Original Jewellery (April 2023)</a></li>
     <li><a href="https://blipdreamteam.pt/" target="_blank">Blip Dream Team (December 2022)</a></li>
     <li><a href="https://minrs.pt/" target="_blank">Minrs (November 2022)</a></li>
     <li><a href="https://gingabike.pt/campanhaeletricasoneoff/" target="_blank">Vortex (October 2022)</a></li>
     <li><a href="https://torreshopping.pt/" target="_blank">Torres Shopping (September 2022)</a></li>
     <li><a href="https://mbeboavista.com/" target="_blank">MBE Boavista (September 2022)</a></li>
-   <li><a href="https://boostfinance.pt/" target="_blank">Boostfinance (June 2022)</a></li>
-   <li><a href="https://timepeople.pt/" target="_blank">Timepeople (May 2022)</a></li>
    <li><a href="https://utopian.pt/" target="_blank">Utopian Hotels (April 2022)</a></li>
-   <li><a href="https://kaizen.tech/" target="_blank">Kaizentech (April 2022)</a></li>
    <li><a href="https://croftport.com/" target="_blank">Croft Port (January 2022)</a></li>
    <li><a href="https://neadvance.com/" target="_blank">Neadvance (December 2021)</a></li>
    
