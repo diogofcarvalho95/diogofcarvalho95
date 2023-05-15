@@ -6,7 +6,9 @@
 🎯 I’m currently improving my skills in Next.js, Gatsby and Tailwind CSS.</p>
 
 <p>Recent works:</p>
- <ul><li><a href="https://explorelandco.com" target="_blank">Explore Land Company (May 2023)</a></li>
+ <ul>
+    <li><a href="https://explorelandco.com" target="_blank">Max10 (May 2023)</a></li>
+   <li><a href="https://explorelandco.com" target="_blank">Explore Land Company (May 2023)</a></li>
     <li><a href="http://gondomarjewellery.pt/" target="_blank">Gondomar Original Jewellery (April 2023)</a></li>
     <li><a href="https://blipdreamteam.pt/" target="_blank">Blip Dream Team (December 2022)</a></li>
     <li><a href="https://minrs.pt/" target="_blank">Minrs (November 2022)</a></li>
