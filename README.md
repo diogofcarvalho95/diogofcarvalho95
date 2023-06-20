@@ -8,7 +8,7 @@
 <p>Recent works:</p>
  <ul>
    <li><a href="https://businesshub.fercopor.pt/" target="_blank">Fercopor Business Hub (June 2023)</a></li>
-    <li><a href="https://explorelandco.com" target="_blank">Max10 (May 2023)</a></li>
+    <li><a href="https://max-10.com/" target="_blank">Max10 (May 2023)</a></li>
    <li><a href="https://explorelandco.com" target="_blank">Explore Land Company (May 2023)</a></li>
     <li><a href="http://gondomarjewellery.pt/" target="_blank">Gondomar Original Jewellery (April 2023)</a></li>
     <li><a href="https://blipdreamteam.pt/" target="_blank">Blip Dream Team (December 2022)</a></li>
