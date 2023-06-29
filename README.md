@@ -7,7 +7,7 @@
 
 <p>Recent works:</p>
  <ul>
-   <li><a href="https://grupoceleste.com/" target="_blank">Projeto Nutrisafelab (Grupo Celeste)</a></li>
+   <li><a href="https://grupoceleste.com/" target="_blank">Projeto Nutrisafelab <small>by Grupo Celeste</small> (June 2023)</a></li>
    <li><a href="https://businesshub.fercopor.pt/" target="_blank">Fercopor Business Hub (June 2023)</a></li>
     <li><a href="https://max-10.com/" target="_blank">Max10 (May 2023)</a></li>
    <li><a href="https://explorelandco.com" target="_blank">Explore Land Company (May 2023)</a></li>
