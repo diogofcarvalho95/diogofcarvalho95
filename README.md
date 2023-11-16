@@ -3,6 +3,7 @@
 
 <p>Recent works:</p>
  <ul>
+   <li><a href="https://vview.pt/" target="_blank">vView (November 2023)</a></li>
    <li><a href="https://overback.com/" target="_blank">Over&Back (October 2023)</a></li>
    <li><a href="https://datahub.anpl.pt/" target="_blank">ANPL DataHub (September 2023)</a></li>
    <li><a href="https://roadset.com" target="_blank">Roadset (August 2023)</a></li>
