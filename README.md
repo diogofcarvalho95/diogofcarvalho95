@@ -4,7 +4,7 @@
 <p>Recent works:</p>
  <ul>
     <li><a href="https://www.wippy.pt/" target="_blank">Wippy (Feb 2024)</a></li>
-   <li><a href="https://planoamigoendesa.pt/" target="_blank">Plano Amigo Endesa</a></li>
+   <li><a href="https://planoamigoendesa.pt/" target="_blank">Plano Amigo Endesa (Jan 2024)</a></li>
    <li><a href="https://vview.pt/" target="_blank">vView (November 2023)</a></li>
    <li><a href="https://overback.com/" target="_blank">Over&Back (October 2023)</a></li>
    <li><a href="https://datahub.anpl.pt/" target="_blank">ANPL DataHub (September 2023)</a></li>
