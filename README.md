@@ -3,6 +3,7 @@
 
 <p>Recent works:</p>
  <ul>
+<li><a href="https://nicolaudacosta.pt/" target="_blank">NDC - Soluções de Engenharia (May 2024)</a></li>
     <li><a href="https://www.wippy.pt/" target="_blank">Wippy (February 2024)</a></li>
    <li><a href="https://planoamigoendesa.pt/" target="_blank">Plano Amigo Endesa (January 2024)</a></li>
    <li><a href="https://vview.pt/" target="_blank">vView (November 2023)</a></li>
