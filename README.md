@@ -24,7 +24,7 @@ li><a href="https://nicolaudacosta.pt/" target="_blank">NDC - Soluções de Enge
    <li><a href="https://croftport.com/" target="_blank">Croft Port (January 2022)</a></li>
    <li><a href="https://neadvance.com/" target="_blank">Neadvance (December 2021)</a></li>
    
-  </ul>-->
+  </ul>
   
   <p>Last confs I attended:</p>
  <ul>
@@ -33,7 +33,7 @@ li><a href="https://nicolaudacosta.pt/" target="_blank">NDC - Soluções de Enge
    <li><a href="https://europe.wordcamp.org/2022/" target="_blank">WordCamp Europe 2022</a></li>
    <li><a href="https://gatsbyconf.com/" target="_blank">GatsbyConf 2022</a></li>
    
-  </ul>
+  </ul>-->
 
 <p>
   📫 <a href="mailto:diogofcarvalho95@gmail.com">diogofcarvalho95@gmail.com</a>
