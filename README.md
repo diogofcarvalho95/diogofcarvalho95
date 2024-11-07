@@ -1,9 +1,9 @@
 <html>
   <p>Hello there! 👋 I'm Diogo, a Frontend and WordPress Developer with 6 years of hands-on experience in crafting seamless and visually stunning web products. My unwavering commitment to pixel-perfect design and user-focused development has been the cornerstone of my career journey.</p>
 
-<p>Recent works:</p>
- <ul>
-<li><a href="https://nicolaudacosta.pt/" target="_blank">NDC - Soluções de Engenharia (May 2024)</a></li>
+<p>Check my portfolio: <a href="https://bento.me/diogo-carvalho" target="_blank">bento.me/diogo-carvalho</a></p>
+<!--< <ul>
+li><a href="https://nicolaudacosta.pt/" target="_blank">NDC - Soluções de Engenharia (May 2024)</a></li>
     <li><a href="https://www.wippy.pt/" target="_blank">Wippy (February 2024)</a></li>
    <li><a href="https://planoamigoendesa.pt/" target="_blank">Plano Amigo Endesa (January 2024)</a></li>
    <li><a href="https://vview.pt/" target="_blank">vView (November 2023)</a></li>
@@ -24,7 +24,7 @@
    <li><a href="https://croftport.com/" target="_blank">Croft Port (January 2022)</a></li>
    <li><a href="https://neadvance.com/" target="_blank">Neadvance (December 2021)</a></li>
    
-  </ul>
+  </ul>-->
   
   <p>Last confs I attended:</p>
  <ul>
